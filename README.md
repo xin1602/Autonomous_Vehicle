@@ -52,14 +52,14 @@
     <img src='images/ppt/投影片26.JPG' width="410"> 
 </div> 
 
-## 五、花絮
+## 六、花絮
 <div align=center>
     <img src='images/ppt/投影片28.JPG' width="410"> 
     <img src='images/ppt/投影片29.JPG' width="410"> 
 </div> 
 
-## 五、影片連結
+## 七、影片連結
 https://youtu.be/eTz4kXIls24?si=XLrvRK8Xa_13kJUk
 <div align=center>
-    <img src='images/video.png' width="410"> 
+    <img src='images/video.png'> 
 </div> 
